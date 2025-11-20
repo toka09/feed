@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227527185308",
+    "project_id": "feed-ac7d2",
+    "storage_bucket": "feed-ac7d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227527185308:android:ca886e4ffc70bb1d05ee59",
+        "android_client_info": {
+          "package_name": "com.iti.feed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs2J-nB2mwjdYOLBBrj07XsR0AR2luysg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
